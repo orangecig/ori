@@ -57,7 +57,7 @@ defaults:
     company: 
     order: 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 permalink: pretty
 gems:
 - jekyll-feed
